@@ -4,8 +4,6 @@ Python simulation of a one-compartment PK model after an IV bolus and after
 first-order oral absorption, solved numerically with SciPy and checked against
 closed-form solutions.
 
-> **Note:** All parameters are illustrative. They are not taken from a real drug,
-> and the results should not be read as real drug PK.
 
 ## What it does
 
